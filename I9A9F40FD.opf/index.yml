@@ -1,0 +1,103 @@
+id: dbd9045941ec4f1b8b38fdff006a593e
+annotation_type: index
+revision: '00001'
+annotations:
+  78cd45d4ba5b4e53bf0ef3d74bd1ab2d:
+    base: C74C.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 164
+    - title: Preface
+      span:
+        start: 165
+        end: 248
+    - title: Section 1
+      span:
+        start: 249
+        end: 2787
+    - title: Section 2
+      span:
+        start: 2788
+        end: 8784
+    - title: Section 3
+      span:
+        start: 8785
+        end: 27710
+    - title: Section 4
+      span:
+        start: 27711
+        end: 36553
+    - title: Section 5
+      span:
+        start: 36554
+        end: 43246
+    - title: Section 6
+      span:
+        start: 43247
+        end: 47195
+    - title: Section 7
+      span:
+        start: 47196
+        end: 61090
+    - title: Section 8
+      span:
+        start: 61091
+        end: 66106
+    - title: Section 9
+      span:
+        start: 66107
+        end: 67877
+    - title: Section 10
+      span:
+        start: 67878
+        end: 69883
+    - title: Section 11
+      span:
+        start: 69884
+        end: 70743
+    - title: Section 12
+      span:
+        start: 70744
+        end: 73222
+    - title: Section 13
+      span:
+        start: 73223
+        end: 76122
+    - title: Section 14
+      span:
+        start: 76123
+        end: 77128
+    - title: Section 15
+      span:
+        start: 77129
+        end: 79725
+    - title: Section 16
+      span:
+        start: 79726
+        end: 81200
+    - title: Section 17
+      span:
+        start: 81201
+        end: 84665
+    - title: Section 18
+      span:
+        start: 84666
+        end: 86413
+    - title: Section 19
+      span:
+        start: 86414
+        end: 88506
+    - title: Section 20
+      span:
+        start: 88507
+        end: 91055
+    - title: Section 21
+      span:
+        start: 91056
+        end: 91839
+    - title: Colophon
+      span:
+        start: 91840
+        end: 92013

@@ -1,0 +1,16 @@
+id: I9A9F40FD
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:13:26.622097
+last_modified: 2023-02-08 15:13:26.622266
+source_metadata:
+  title: Mañjuśrīvikrīḍitasūtra
+  language: bo
+bases:
+  C74C:
+    base_file: C74C.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
